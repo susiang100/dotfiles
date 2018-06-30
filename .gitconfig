@@ -1,7 +1,9 @@
-[color]
-    editor = vim
+[user]
+    email = farrrr@gmail.com
+    name = Far Tseng
 
 [color]
+    editor = vim
     # Treat spaces before tabs, lines that are indented with 8 or more spaces, and all kinds of trailing whitespace as an error
     whitespace = trailing-space,space-before-tab
     ui = true
@@ -32,7 +34,3 @@
 
 [pager]
     diff =
-
-[include]
-    path = ~/.gitconfig.local
-    path = ~/.gitconfig.far
